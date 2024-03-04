@@ -1,0 +1,19 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: v4.2.5
+_src_path: https://github.com/jupyterlab/extension-template
+author_email: tuto@help.com
+author_name: tuto
+data_format: string
+file_extension: ''
+has_binder: true
+has_settings: false
+kind: frontend
+labextension_name: hello_world
+mimetype: ''
+mimetype_name: ''
+project_short_description: Minimal JupyterLab extension.
+python_name: hello_world
+repository: https://github.com/Meriem-BenIsmail/hello_world
+test: true
+viewer_name: ''
+
